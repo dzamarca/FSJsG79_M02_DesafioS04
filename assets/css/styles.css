@@ -91,6 +91,7 @@ select{
 }
 
 .footer a{
+    text-decoration: none;
     color: #fff;
 }
 
@@ -235,8 +236,4 @@ select{
 
 .card-img-pk img{
     height: 200px;
-}
-
-a:link, :visited, :hover, :active{
-    color: #fff;
 }
